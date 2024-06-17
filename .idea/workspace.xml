@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="caec764e-cb43-4af6-9e3a-2f88c36c9f05" name="Changes" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;.idea/compiler.xml&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+    <list default="true" id="caec764e-cb43-4af6-9e3a-2f88c36c9f05" name="Changes" comment="Criando as classes de dominio, Bootcamp e Dev">
+      <change afterPath="$PROJECT_DIR$/src/main/java/br.com.dio.desafio.dominio/Bootcamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br.com.dio.desafio.dominio/Conteudo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/br.com.dio.desafio.dominio/Dev.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br.com.dio.desafio.dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br.com.dio.desafio.dominio/Curso.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br.com.dio.desafio.dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br.com.dio.desafio.dominio/Mentoria.java" afterDir="false" />
     </list>
@@ -149,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718646514225</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Testando as classes">
+      <option name="closed" value="true" />
+      <created>1718648267676</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718648267676</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +194,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criando o projeto" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;.idea/compiler.xml&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;.idea/compiler.xml&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="Testando as classes" />
+    <MESSAGE value="Criando as classes de dominio, Bootcamp e Dev" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criando as classes de dominio, Bootcamp e Dev" />
   </component>
 </project>
