@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="caec764e-cb43-4af6-9e3a-2f88c36c9f05" name="Changes" comment="Criando as classes de dominio, Bootcamp e Dev">
+    <list default="true" id="caec764e-cb43-4af6-9e3a-2f88c36c9f05" name="Changes" comment="Implementando a regra de negócio parte 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br.com.dio.desafio.dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br.com.dio.desafio.dominio/Dev.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/git/API-de-Alimentos-backend&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -163,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718650263642</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Implementando a regra de negócio parte 1">
+      <option name="closed" value="true" />
+      <created>1718669528206</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1718669528206</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,6 +208,7 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;.idea/compiler.xml&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="Testando as classes" />
     <MESSAGE value="Criando as classes de dominio, Bootcamp e Dev" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando as classes de dominio, Bootcamp e Dev" />
+    <MESSAGE value="Implementando a regra de negócio parte 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implementando a regra de negócio parte 1" />
   </component>
 </project>
